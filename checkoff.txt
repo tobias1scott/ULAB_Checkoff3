@@ -1,0 +1,1 @@
+The git remote command serves to allow you to quickly access the work of other people. "Remote" refers to repositories that are not local or not yours, and the remote command allows you to create connections to those repositories.
